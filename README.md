@@ -64,8 +64,6 @@ session.upload_progress.name => PHP_SESSION_UPLOAD_PROGRESS
 session.upload_progress.prefix => upload_progress_
 ```
 
-![Evidencia - Configuración session.upload_progress](evidencias/03-config-upload-progress.png)
-![Evidencia - Configuración completa](evidencias/04-config-upload-progress-completo.png)
 ![Evidencia - Verificación repetida](evidencias/05-config-upload-progress-repeticion.png)
 
 Esto permitió comprobar que la función `session.upload_progress` estaba habilitada.
